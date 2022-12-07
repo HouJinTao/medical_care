@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: medical-care
+  datasource:
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://43.143.189.51:3306/imnu_health?useUnicode=true&characterEncoding=UTF-8
